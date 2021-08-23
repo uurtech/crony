@@ -1,4 +1,4 @@
-# crownie
+# crony
 
 a tool to help you deploy a cron job aws &amp;&amp; gcloud 
 
